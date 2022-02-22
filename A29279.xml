@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gospel-pattern for the government of gospel-churches together with queries made on the assembly-propositions presented to the high court of Parliament / by the unworthiest of the gospel-ministers, John Brayne.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29279</idno>
+            <idno type="STC">Wing B4326</idno>
+            <idno type="STC">ESTC R36508</idno>
+            <idno type="EEBO-CITATION">15713948</idno>
+            <idno type="OCLC">ocm 15713948</idno>
+            <idno type="VID">104485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104485)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1179:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gospel-pattern for the government of gospel-churches together with queries made on the assembly-propositions presented to the high court of Parliament / by the unworthiest of the gospel-ministers, John Brayne.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whitington,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church polity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104485:1"/>
+            <pb facs="tcp:104485:1" rendition="simple:additions"/>
+            <p>THE GOSPEL-PATTERN For the Government of GOSPEL-CHURCHES.</p>
+            <p>Together with QUERIES Made on the ASSEMBLY-PROPOSITIONS Preſented to the High Court of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>By the unworthieſt of the Goſpel-Miniſters, JOHN BRAYNE.</p>
+            <q>
+               <bibl>
+                  <hi>Rev. 10.10.</hi>
+               </bibl> I took the little book, &amp;c.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Whittington,</hi> at the Blew-Anchor in <hi>Cornhill</hi> near the <hi>Royall Exchange,</hi> 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104485:2"/>
+            <pb facs="tcp:104485:2"/>
+            <head>To His Excellencie the Lo: FAIRFAX, GENERAL of the <hi>Engliſh</hi> Forces raiſed for Defence of the PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is nothing more obvious to Your Excellency; then that flattery and deceit are bred in the wombe of a de<g ref="char:EOLhyphen"/>ceiving and a deceived heart. Which detains me from ſaying much, leſt the world and You ſhould look on me as ſuch. Yet this I dare aſſert unto you, for encouragement, that You are the <hi>Angel</hi> mentioned <hi>Rev. 14.16.</hi> and none elſe is meant thereby but You. And that I deceive you not, I give the world and you this ſigne: That the Angel mentioned <hi>ver. 17.</hi> ſhall in a few years [it may be in a year or two] ariſe in one of our next neighbour Dominions, who like a Son of Thunder ſhall ſo terrifie the Popiſh world, and bring ſuch a deſolation on thoſe deceived Nations, as hath not been ſince Man and Earth began to be.</p>
+            <p>Our miſery, I hope, begins to draw to an end; one Woe more, and no more. The beginning of Gods return in mercy to us, will be a reſtoring the true <hi>Church-Eſtate</hi> amongſt us, which ſhall be for the healing of the bruiſed Nations. Which, as a Balm moſt preci<g ref="char:EOLhyphen"/>ous for this purpoſe, I make bold to preſent You with this ſmall enſuing <hi>Form of Church-Government;</hi> praying God to give you underſtanding and a right judgment, to diſcern the truth hereof; And that He preſerve you to, and bleſſe you for ever in himſelf, and his magnificent mercies.</p>
+            <closer>
+               <signed>So prayes <hi>Your ſervant in the Goſpel,</hi> J. B.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:104485:3"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>I</hi> Have added to the <hi>Forme of Government</hi> following, theſe <hi>Queries</hi> that follow on the <hi>Aſſembly-Propoſitions;</hi> which, with the <hi>3 Letters</hi> of Goſpel-Advice, ſent them and printed, ſerve to take aſunder the whole <hi>Presbyterian</hi> Building. And if thou meaſure its dimenſions, they are not of the Goſpel-height, depth, length or breadth: And by comparing of them one with another, thou mayeſt the better judge of the ones ſoundneſſe, and the others unſoundneſſe. Which I ſhall pray God aſſiſt thee in, deſiring thee to paſſe by the faults in Printing And to expect the ſitting of the Judgement, and raiſing of thoſe Dead, <hi>Rev. 20.4.</hi> which immediately is to ſucceed as concerning the Church; which as a <hi>door of hope</hi> is opened to the Saints for <hi>reſt:</hi> which I ſhall deſire thou mayſt partake of, Reſting</p>
+            <closer>
+               <signed>Thine in the Lord, <hi>John Brayne.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104485:3"/>
+            <head>THE Goſpel-Pattern for the Government of GOSPEL-CHURCHES.</head>
+            <p>
+               <seg rend="decorInit">A</seg>DAM, and in him his whole poſterity falling, God in Chriſt ordained the reſt auration of ſome few of his miſerable off-ſpring: For the accompliſhing whereof God inſtitutes a Miniſtery to preach repentance to men in their loſt eſtate; which <hi>as many as are or<g ref="char:EOLhyphen"/>dained to eternall life believe,</hi> Act. 13.48. and ſo come to be <hi>added to the Church,</hi> Act 2.47.</p>
+            <p>This Miniſtery is a preparatory Miniſtery, <hi>Mat.</hi> 3.3. preached to the world, <hi>Act.</hi> 26.18. which is not pertaining to <hi>Moſes</hi> Miniſtery, <hi>Mat.</hi> 11.13. nor is it of the Church or Kingdome-Miniſtery, <hi>Mat.</hi> 11.11. It was to work on unbelievers only, <hi>Luk</hi> 3.5. and was exerciſed among unbelievers in Synagogues, <hi>Act.</hi> 18.4. &amp; 19.8, 9. and differed from Church-Teaching anſwer<g ref="char:EOLhyphen"/>ing to our Catechiſing, <hi>Act.</hi> 8.30 31, 34. And in the matter taught: as appears in the Epiſtle of <hi>James,</hi> written to men of the world; and the firſt Epiſtle of <hi>John,</hi> written to the children of God; with the other Epiſtle, whoſe Scripture name is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Preacher,</hi> 2 <hi>Tim.</hi> 1.11. <hi>Gal.</hi> 6 6. <hi>Catechiſt. Rom.</hi> 2.18. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mini<g ref="char:EOLhyphen"/>ſters to the blind,</hi> &amp;c. who is ſaid <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to preach, <hi>ver.</hi> 21.</p>
+            <p>God having called his by the preparatory Miniſtery thus out of the world, did for the effcting of his purpoſe ordain holy Ordinances in which they ſhould enjoy communion with himſelf and a holy fellowſhip among themſelves, by which they may be kept holy to God here, and be made fit for eternall life hereafter.
+<pb n="2" facs="tcp:104485:4"/>
+which Society the Scriptures call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Church, in which as in another Ark, God ſaves his Elect from being deſtroyed with the world, 1 <hi>Pet.</hi> 3.20, 21.</p>
+            <p>This Church is, <hi>A viſible ſociety of Saints,</hi> 1 <hi>Cor.</hi> 1.2. <hi>Rom.</hi> 1.7. <hi>Phil.</hi> 1.1. conſiſting of Infants, Youth, and Fathers, 1 <hi>John</hi> 2.13. <hi>Joh.</hi> 21.16, 17. who are drawn out of the world by the call of the Goſpel, 2 <hi>Cor.</hi> 6.17. <hi>Mat.</hi> 13.47, 48. <hi>Rev.</hi> 18.4. and are joyned by ſpirituall bonds and tyes one to another, <hi>Col.</hi> 2.19. <hi>Act</hi> 17.4. <hi>Eph</hi> 4.16. before Baptiſme by a Profeſſion of Faith, <hi>Act.</hi> 8.36, 37 38 and Confeſſion of ſinnes, <hi>Mat.</hi> 3.6. <hi>Act.</hi> 2.38. And then Sacramentally joyned to Chriſt, by which they were ſaid to be added to the Church, <hi>Act.</hi> 2.41. Both of theſe are joyned together, 2 <hi>Cor.</hi> 8.5. 1 <hi>Iohn</hi> 1.3. And is con<g ref="char:EOLhyphen"/>ceived as a favour to thoſe thus united. God gave the benefit of Church-fellowſhip to their poſterity alſo, <hi>Act</hi> 2.39. 1 <hi>Cor.</hi> 7.14. who are called in the Scripture, Brethren, 1 <hi>Cor.</hi> 16.20. <hi>Epheſ.</hi> 6.23. <hi>Phil.</hi> 4 21. <hi>Col.</hi> 4.15.</p>
+            <p>The Government of this ſociety God committed to his Son Jeſus Chriſt, who for ſupply of his abſence did ordain ſeverall Offices to be committed to faithfull men, and to be imployed therein under Chriſt for the edification and government there<g ref="char:EOLhyphen"/>of untill he come, <hi>Mat.</hi> 25.14. to the 19. <hi>verſe.</hi>
+            </p>
+            <p>Theſe Officers in the Scripture are called either Teaching, or Ruling Elders, 1 <hi>Tim.</hi> 5.15.</p>
+            <p>Teaching Elders are either ſuch by whom the Scriptures came to be given to the Church, which are Apoſtles and Pro<g ref="char:EOLhyphen"/>phets only, whoſe Miniſtery (as <hi>Moſes</hi> and the Prophets under that adminiſtration, <hi>Luke</hi> 16.29) is extraordinarily exerciſed in the Church, 1 <hi>Cor.</hi> 5.4. <hi>Epheſ.</hi> 2.20. &amp; 4.13. Or the ordinary Church-Miniſtery, who are only to teach the Word for the Churches edification to the end; which are Evangeliſts, Paſtors, and Teachers, 1 <hi>Cor.</hi> 12.28. where all beſides Apoſtles and Pro<g ref="char:EOLhyphen"/>phets are called Teachers, and are of one equall number; which Teachers are nominally ſet down, <hi>Epheſ.</hi> 4.11. to be Evange<g ref="char:EOLhyphen"/>liſts, &amp;c.</p>
+            <p>The Preacher without, but eſpecially the Teacher and Paſtor within the Church, are Co-workers or helpers of the Evange<g ref="char:EOLhyphen"/>liſt in the Miniſtry, <hi>Phil.</hi> 4.3. 2 <hi>Cor.</hi> 8.23. <hi>Rom.</hi> 16.21. <hi>Col.</hi> 4 10, 11.
+<pb n="3" facs="tcp:104485:4"/>
+whereby they are ſaid to miniſter one to another, the one pre<g ref="char:EOLhyphen"/>paring men for the others ſociety, 1 <hi>Pet.</hi> 4.10. which is done in the exerciſing of ſeverall gifts, given them by the Church to miniſter by, <hi>Rom.</hi> 12.7, 8 1 <hi>Pet.</hi> 4.10. 2 <hi>Tim.</hi> 1.6. 1 <hi>Cor.</hi> 12.4. They differ in the Ordinances they adminiſter, 1 <hi>Cor.</hi> 12.5. 1 <hi>Cor.</hi> 1.17. 1 <hi>Cor.</hi> 3.8. and in the doctrines they taught, 1 <hi>Cor.</hi> 12.8. 1 <hi>Cor.</hi> 14.6. <hi>Rom.</hi> 12.6, 7, 8. their Mi<g ref="char:EOLhyphen"/>niſtry differed in operation, 1 <hi>Cor.</hi> 12.6. <hi>Eph.</hi> 4.12. <hi>Col.</hi> 2.7. which are illuſtrated, 1 <hi>Cor.</hi> 14.7, 8. in the Harp, Pipe and Trumpet, which are differing inſtruments, which are to give a diſtinction in ſounds, that it may be known what is piped or harped, one of theſe was not to do that pertained to the others Miniſtry, <hi>Acts</hi> 10.48. 1 <hi>Cor.</hi> 1.17.</p>
+            <p>Theſe all as a Church-Ordinance, are to be called for of the ſick in time of ſickneſſe, who are to pray for them <hi>James</hi> 5.14.15. as to governe and to teach them in health.</p>
+            <p>At the adminiſtration of the Lords Supper, the whole Church under this threefold miniſtry, are to meet in one place and partake thereof together, 1 <hi>Cor.</hi> 11.20. ſinging Pſalmes, reading the word, <hi>Col.</hi> 2.19. <hi>Luk.</hi> 4.16. 1 <hi>Theſſ.</hi> 5.27. collect for the poor, 1 <hi>Cor.</hi> 16.1, 2.</p>
+            <div type="part">
+               <head>As theſe aſſiſted the Evangeliſts in the worke of Miniſtry, ſo are they to aſſiſt him alſo in Governement.</head>
+               <p>So that Governement is the proper worke of the whole Church-Miniſtry, and is not to be exerciſed but by them all, it being joyntly committed of Chriſt to them to rule, and the People commanded of God to obey them; ſo only, and no<g ref="char:EOLhyphen"/>where otherwiſe, <hi>Acts</hi> 20.28. 1 <hi>Cor.</hi> 4.1. 1 <hi>Tim.</hi> 5.17. 1 <hi>Theſſ.</hi> 5.12. That Eccleſiaſticall Governement pertaines to theſe only appears, <hi>Heb.</hi> 13.7. they are to obey thoſe only that have ſpoken the word to them, <hi>ver.</hi> 17. becauſe they watch for their ſouls, and are to give accompt to God for them, who have as much committed to them to doe as can be done hereby, <hi>Eph.</hi> 4.12, 14.</p>
+               <p>Hence an act of Church-Government, done by any other
+<pb n="4" facs="tcp:104485:5" rendition="simple:additions"/>
+then theſe, is not done according to the Goſpell; or if done by one without a meeting of all in a Confeſſion is not to be judged Authoritative.</p>
+               <p>The Church may queſtion the Rulers, when they do in Miniſtry or Government go againſt the Rule, <hi>Acts</hi> 11.3, 4.</p>
+            </div>
+            <div type="part">
+               <head>Eccleſiasticall Government conſiſts chiefly in theſe things.</head>
+               <p>In the orderly doing of things, 1 <hi>Cor.</hi> 14.33, 40. ordering the Saints lives, 1 <hi>Theſſ.</hi> 5.14. 2 <hi>Theſſ.</hi> 3.6. In the admitting of members, <hi>Acts</hi> 2.41. <hi>Matth.</hi> 13.30. <hi>Acts</hi> 17.4. as mem<g ref="char:EOLhyphen"/>bers were fitted, to paſſe them from ſociety to ſociety, 2 <hi>Cor.</hi> 3.18. Evangelically predicted, <hi>Pſal.</hi> 84.7. done by tryall of gifts, 1. <hi>Cor.</hi> 14.31. Ordination of Miniſters, 1 <hi>Tim.</hi> 4.14. for preventing ſcandals <hi>Matth.</hi> 13.41. <hi>Rom.</hi> 14.13. among the members, 1 <hi>Cor.</hi> 12.25. and 8.9. and offending the world, <hi>Col.</hi> 4.5. 1 <hi>Cor.</hi> 10.32. to caſt out the profane and hereticall, <hi>Matth.</hi> 13.41. 1 <hi>Cor.</hi> 5.4, 5. 1 <hi>Tim.</hi> 1.20. <hi>Titus</hi> 3.10. to reſtore the humbled, 2 <hi>Cor.</hi> 2.8. ſuſpenſion from ſociety 2 <hi>Theſſ.</hi> 3.14. for a time who are to be accompted as brethren, but thoſe are excommunicated as Heathens.</p>
+            </div>
+            <div type="part">
+               <head>Ruling Elders had their ſeverall charges committed to them for the right ordering of temporall things in the Church under Chriſt.</head>
+               <p>Deacons had their Election of the People, and Ordination by the Impoſition of hands of the Presbytery, <hi>Acts</hi> 6.36. who are to be in all compleat conſtituted Churches, ſeven for num<g ref="char:EOLhyphen"/>ber, <hi>ver.</hi> 3. who were to diſtribute in each ſociety the Saints contributions to their poore brethren, according to the nature of their ſeverall neceſſities, compare <hi>ver.</hi> 1. and 3. two of which were for each Church-ſociety and one to have reſpect to thoſe of the Preachers meeting without the Church.</p>
+               <p>The helping Governour ſpoken of 1 <hi>Cor.</hi> 12.28. <hi>Rom.</hi> 12.8. his Ordination is of the Church without Impoſition of hands by the Presbytery, 1 <hi>Cor.</hi> 6.4. that that qualifieth him is his wiſedome, <hi>v.</hi> 5, that for which he is ordained to be a Judge, <hi>v.</hi> 4. the things he is to judge of, are things of this life, ſmall matters of wrong between brother and brother, and then whence this
+<pb n="5" facs="tcp:104485:5"/>
+officer is to be, and that is ſet downe to be from among them<g ref="char:EOLhyphen"/>ſelves a member of the ſame Church, <hi>ver.</hi> 5. whoſe authority is confirmed by Concluſions drawne from the greater to the leſſe, <hi>ver.</hi> 2.3. who are to be honoured in the Church and obey<g ref="char:EOLhyphen"/>ed, 1 <hi>Tim.</hi> 5.17.</p>
+               <p>
+                  <hi>Object.</hi> This Church-Magiſtracie ſerves to deſtroy the au<g ref="char:EOLhyphen"/>thority of the Civil Magiſtrate.</p>
+               <p>
+                  <hi>Reſp.</hi> The Church-Magiſtrate is to be ſubject to the Civil Magiſtrate as to the higher Power, <hi>Rom.</hi> 13.1. is not to rule by the command of the ſword at all, but by the Word only, and ſo cannot prejudice that Authority: and was ſet up to prevent going to Law, 1 <hi>Cor.</hi> 6, 7. not before Heathens only, but any other: and is far leſſe then what is granted ordinary Incorporations; when no Society deſerves more ample freedoms under Magi<g ref="char:EOLhyphen"/>ſtracie then the Church, for whoſe ſake God bleſſeth a people. It was a priviledge that the Church enjoyed under the Heathen Emperours, untill made waſte in the deſolations of the Church. Nor can the office be made void by any change of States, it be<g ref="char:EOLhyphen"/>ing ordained by Divine inſtitution, and ſo to be a part of the Churches perpetual Government, ſo that the Church cannot be rightly governed, whiles this Governour is not ſet up to govern by according to the mind of Chriſt in 1 Cor. 6. And were Churches to be collected in this Kingdom, as they ſhall, and ought to be; there is the ſame reaſon for them now that ever there was; and that Church-government that deſtroyeth this Church-governour, is not of God nor of the Goſpel. Nor can there be produced out of all the Goſpel any Inſtitution or diſ<g ref="char:EOLhyphen"/>covery of the Helping governours office but in this place; and it cannot be that a Governour belonging to the government of the Goſpel, ſhould not have authority from the Goſpel to rule by, and Inſtructions how to do it, and how this authority ſhould be conferred on him; which is of none, nor no where, but of this officer in this place, who hath his authority of God and not of man, and therefore may not be ſuppreſſed.</p>
+               <p>The way God had to ſet up this government, was by the A<g ref="char:EOLhyphen"/>poſtles called and ſent of God to preach the Word, by which they made Diſciples and gathered the believing Iewes into a Society according to the way aforeſaid; which Church was cal<g ref="char:EOLhyphen"/>led
+<pb n="6" facs="tcp:104485:6"/>
+the Mother-church, where the Presbyterie of that Church did ordain holy and fit men for the Miniſtry, and did ſend them forth to gather other Churches in <hi>Iudaea</hi> and in the places there<g ref="char:EOLhyphen"/>about, 1 Cor: 14.36. The Apoſtle <hi>Paul</hi> and <hi>Barnabas</hi> with their other helpers, as in all the Epiſtles, did firſt ſet up the goſpel-Churches in the chief cities of the Nations, who ſent out thence to other cities of the ſame country in like manner, and to ſuch other places as in thoſe times would admit of the Goſpel-government, which did thus continue untill Antichriſt that <hi>abomination of deſolation</hi> had deſtroyed the viſible frame of the churches government in all the world.</p>
+               <p>Now God having ordained a reſurrection of Churches to be under the Miniſtry of the ſeventh Angel who receives his trum<g ref="char:EOLhyphen"/>pet from God, <hi>Rev.</hi> 8.2. by which he comes to reſtore rightly the true Miniſtry into the Church, by whom a true Goſpel-Church ſhall be erected, who ſhall be mother of many daugh<g ref="char:EOLhyphen"/>ter Churches, which ſhall be called therefore the New Ieru<g ref="char:EOLhyphen"/>ſalem ſpoken of <hi>Rev.</hi> 3.12. &amp; 21.2. by whoſe Miniſtry is fore<g ref="char:EOLhyphen"/>told to be the fall of the Cities of the Nations, <hi>Rev.</hi> 16.19. that is from Antichriſt to Chriſt. Which Miniſter, Miniſtery, and Means we have great cauſe to pray God to ſend; we nor the world being like to ſee a day of true peace before his Miniſtry, it being reſerved for him and his Miniſtry to turn the hearts of the fathers to the children, that is, to let us know how they did worſhip God, as yet hid from us: and turne the hearts of the children to the fathers, that is, perſwade us to wor<g ref="char:EOLhyphen"/>ſhip God as they did, which we are far off from to this very day; <hi>Mal.</hi> 4.6. before which time, <hi>I</hi> am verily perſwaded there will be be no place for any other Government ever to be erected or ſet up. Such mercy hath God for theſe laſt times, and ſo near is the Kingdome of God at hand, and as it were ready to be revealed, <hi>Rev.</hi> 12.10. unto which the Lord ſtir up the Spirits of his Saints to enter, that the Kingdome of Heaven may ſuffer violence, and the violent take it by force, that it may be in us and with us for evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="text">
+            <div n="1" type="section">
+               <pb n="7" facs="tcp:104485:6"/>
+               <head>
+                  <hi>SECT. I.</hi> The Queries or things to be inquired into of the firſt Sect. Of the Church, whether <hi>1</hi> Cor. <hi>12.12.</hi> be not meant of the inviſible Church only.</head>
+               <p n="1">1 WHither the Churches of the primitive times were not Patterns for the Churches to be conſtituted by, to the end?</p>
+               <p n="2">2. Whether our Churches be conſtituted according to theirs, conſiſting of viſible Saints?</p>
+               <p n="3">3. Whether any, (if any children be ordinarily to be admit<g ref="char:EOLhyphen"/>ted into the Church-Society,) then thoſe that are the children of viſible Saints joyned in a Church way be meant.</p>
+               <p n="4">4. Whether by <hi>Rev.</hi> 18.4. be not required the ſame conſtituting of Churches now among us come out of <hi>Babel,</hi> as was required, 1 <hi>Cor.</hi> 6.18. of thoſe who forſook the pagan worſhip of the devil, or forſook <hi>Moſes</hi> Miniſtry, <hi>Acts</hi> 2.38, 41. and whether any ſuch way of conſtituting Churches hath been taken yet amongſt us, to prove our Churches true by.</p>
+               <p n="5">5. Whether untill it be ſo conſtituted, the Church lie not in its waſte, deſolate, eremiticall condition, under the abomination of deſolation, <hi>Dan.</hi> 9.27.</p>
+               <p n="6">6. Whether the Presbyterian way of Government and way of Worſhip, be the way God ordained to reſtore her to her pri<g ref="char:EOLhyphen"/>mitive State, or do not rather make it deſolate as before?</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p n="1">1. Whether the lack of the Evangeliſt Miniſtry in the Church, be not one part of the Churches deſolation, and can<g ref="char:EOLhyphen"/>not but remaine ſo without it?</p>
+               <p n="2">2. Whether the Propoſitions fully containe the Goſpel-Pat<g ref="char:EOLhyphen"/>terne for the miniſtry? Or whether the miniſtry <hi>Epheſ.</hi> 4.11. be not only a Church-miniſtry, or whether there was not to be a miniſtry to be exerciſed to men without the Church, called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> who prepared for Church-ſociet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Matth.</hi> 11.11. and
+<pb n="8" facs="tcp:104485:7"/>
+13. compared and diſtinguiſhed by the Apoſtle, 2 <hi>Tim.</hi> 1.11. and practiſed by the Apoſtles teaching in Synagogues.</p>
+               <p n="3">3. Whether the Order of the Goſpel-miniſtry be yet diſcove<g ref="char:EOLhyphen"/>red, or whether any thing by our now miniſtry be done in Goſpel-Order, 1 <hi>Pet.</hi> 4.10. one Miniſter by the Goſpel, being to miniſter in his Miniſtry to another Miniſter, for the building up of the Saints by degrees therein?</p>
+               <p n="1">1. Whether it be not Anti-Chriſtian to alter any thing in the Governement, exerciſe of Miniſtry, or conſtitution of the Church now from what it was in the firſt ſetting up of the Goſpel-Governement among the Jewes, or what Scripture Authority have we to prove it lawfull to alter in any thing the formes thereof?</p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>SECT. III.</hi> On the Propoſition concerning the Paſtor.</head>
+               <p>
+                  <hi>Quer.</hi> 1. Whether 1 <hi>Pet.</hi> 5.2, 3, 4. <hi>Acts</hi> 6.2, 3, 4. are not ap<g ref="char:EOLhyphen"/>plyed to the whole Church-miniſtry, and whether it be not a deſtroying of the Church-Authority to appropriate it to one of them only againſt that <hi>Mat.</hi> 18.18, 19?</p>
+               <p n="2">2. Whether <hi>Acts</hi> 20.26, 36. were not only of him ſpoken as A<g ref="char:EOLhyphen"/>poſtle or Prophet? the leaſt he exerciſed, was the Evangeliſts miniſtry here if anywhere, 1 <hi>Cor.</hi> 1.17, extraordinarily.</p>
+               <div type="part">
+                  <head>Propoſitions for reading Scripture publickly.</head>
+                  <p n="1">1. <hi>Luk.</hi> 4.16. <hi>Col.</hi> 4.16. prove the reading of the Scriptures; but whether the Scriptures are to be read in the Church as un<g ref="char:EOLhyphen"/>der <hi>Moſes</hi> Miniſtry, I queſtion.</p>
+                  <p n="2">2. Whether the Goſpel-Teacher and his Miniſtry, ceaſe not, and the Church, be not in deſolation for the lack of it by this order of catechiſing as now uſed; The Catechiſt alſo deſtroyed and his Miniſtry?</p>
+               </div>
+               <div type="part">
+                  <head>Propoſition. The Paſtor is to diſpence other divine myſteries.</head>
+                  <p n="1">1. Whether the Paſtor be to diſpenſe the myſteries there ſpo<g ref="char:EOLhyphen"/>ken of 1 <hi>Cor.</hi> 4.12. of himſelfe without the other miniſtry, it be<g ref="char:EOLhyphen"/>ing declared in the name of all?</p>
+                  <pb n="9" facs="tcp:104485:7"/>
+                  <p n="2">2. Whether we ſhould not take care of Church-robbery, and as the Proverbe is, that we rob not <hi>Peter</hi> to pay <hi>Paul? Paul</hi> would have thoſe that wrought with him in the fellowſhip of the Goſpel, to be accounted of as ſtewards as well as himſelfe in their part of ſtewardſhip and miniſtry with him.</p>
+               </div>
+               <div type="part">
+                  <head>Propoſition. The Paſtor is to adminiſter the Sacraments.</head>
+                  <p n="1">1. Whether the Doctor being to teach the beginnings of Chriſt, and being the initiating Miniſtry, be not only to baptize; and baptiſme an Ordinance proper to his ſociety only?</p>
+                  <p n="2">2. Whether <hi>Paul</hi> 1 Cor. 1.17. and <hi>Peter</hi> Acts 10.48. did not leave this Ordinance ordinarily to thoſe who wrought with them, to do?</p>
+                  <p n="3">3. Whether the Sacrament of the Lords Supper were admini<g ref="char:EOLhyphen"/>ſtred, but in the meeting of the whole Church. 1 <hi>Cor.</hi> 11.20. when, whether the Evangeliſt or Paſtor ſhould conſecrate it, the E<g ref="char:EOLhyphen"/>vangeliſt being preſent, is not queſtionable I thinke; yet in this act I ſuppoſe the Paſtor with the Doctor did help to adminiſter it to their ſeverall Societies.</p>
+               </div>
+               <div type="part">
+                  <head>Propoſition. That the Paſtor is to take care for the Poore.</head>
+                  <p n="1">1. Whether this being the proper office of the Deacon to do, ſet up of God in the Church for the exempting of the Miniſtry from worldly affairs, it be not contrary to that, <hi>Acts</hi> 6.2, 4?</p>
+                  <p n="2">2. Whether Acts 11.30. 1 Cor. 16.1.2.3.4. Gal 2.9.10. are not all concerning reliefe of the particular Eſtate of the Church at Jeruſalem on an extraordinary ground, Rom. 15.27. for that the Gentiles were debters to the Jewes, 2 Cor. 8.4? he took it not on him, but on much, intreatie, ſo that it is cleare this was not part of his Miniſterial charge, for woe be to him then if he had not done it willingly.</p>
+                  <p n="3">3. Acts 4.34.35. proves nothing, becauſe done before the in<g ref="char:EOLhyphen"/>ſtitution of Deacons in the Church.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Propoſ. The Paſtor hath a ruling power over the flock as a Pa<g ref="char:EOLhyphen"/>ſtor,</hi> 1 Tim. 5.17. Acts 20.17.28. 1 Theſ. 5.12. Heb. 13.7.17.</head>
+                  <p n="1">1. Whether Ruling power be in any of the Church Miniſters
+<pb n="10" facs="tcp:104485:8"/>
+as divided, or conjunctively; that is, whether an act done in Church-government by one of the Church-Miniſtery, be a legal act? Or whether it be neceſſary, to make it lawfull there ſhould be the joint conſent of Evangeliſt, Paſtor and Teacher; and whether theſe Scriptures prove not the ſame?</p>
+                  <p n="2">2. Whether for any ſingle Miniſter to take the whole autho<g ref="char:EOLhyphen"/>rity of the <hi>Synedrie,</hi> be not Antichriſtian, and that which is in Scripture called a <hi>Lording it over Gods inheritance?</hi>
+                  </p>
+                  <p n="3">3. Whether there be any other Presbyterie, Confeſſion or Elderſhip that is Evangelical and ordained of Chriſt to rule in the Church, then theſe only of Evangeliſt, Paſtor &amp; Teacher, ordinarily?</p>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>SECT. IV.</hi> Propoſ. concerning the Teacher.</head>
+               <p>
+                  <hi>Q.</hi> 1. Whether the Schoole-Doctor hath any thing to do with this in <hi>Epheſ.</hi> 4.11. Whether he be any other then of hu<g ref="char:EOLhyphen"/>mane inſtitution, is not to be queſtioned, I think, and not fit to be ſet down in this caſe, unleſſe to exclude the chucrh Teacher as the Evangeliſt.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>SECT. V.</hi> Propoſiiton of Church-Governours.</head>
+               <p n="1">1. What theſe 2 <hi>Chro.</hi> 19.8, 9, 10. have to do in the goſpel-government?</p>
+               <p n="2">2. Whether the inſtitution of thoſe is expreſſed, <hi>Rom.</hi> 12.7, 8. 1 <hi>Cor.</hi> 12.28. Whether their duty be that the Lay-Elders are deſigned unto in the Presbytery?</p>
+               <p n="3">3. Whether any Goſpel-Officer be without Goſpel-Inſtitu<g ref="char:EOLhyphen"/>tion? If not, that being found, clears his office only. 1 <hi>Cor.</hi> 6. <hi>ver.</hi> 1. to 6. contains the Inſtitution of a Church-officer which is not now in uſe in the Church, and there is no inſtitution for any elſwhere.</p>
+               <p>
+                  <hi>Obiect.</hi> They are ceaſed.</p>
+               <p>
+                  <hi>Reſp.</hi> What warrant is there, that any Officer that is of Di<g ref="char:EOLhyphen"/>vine inſtitution ſet up of Chriſt in the church, ſhould ceaſe?</p>
+               <p n="2">2. It is plainly to be made appear, that in a kind that office is as neceſſary now, and ever wil be, as when it was firſt inſtituted.</p>
+               <p n="3">3. Other helping-governours then theſe, I think never were inſtituted of Chriſt in the Church, but are only humane.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="11" facs="tcp:104485:8"/>
+               <head>
+                  <hi>SECT. VI.</hi> Propoſition of DEACONS.</head>
+               <p>
+                  <hi>Qu.</hi> 1. If there ought not to be ſeven in every compleat Church, according to the firſt inſtitution; that is, two for each Church-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ociety, and one for that without?</p>
+               <p n="2">2. If it may be lawfull in a compleat conſtituted Church to have more or leſſe governours then were at Ieruſalem of any kind at our pleaſure, without deſtroying the Goſpel-forme?</p>
+               <p n="1">1. Whether the firſt ſeparation was not of the believers from unbelievers, Act. 19.9. and then dividing believers from belie<g ref="char:EOLhyphen"/>vers, according to the meaſure of their faith only, and not their multitude? <hi>Heb.</hi> 5.12. compared with <hi>cap.</hi> 6.1.</p>
+               <p n="2">2. Whether any thing in our Congregations where this is not, is or can be done to edification at all?</p>
+               <p n="3">3. Whether the Tyes <hi>Col.</hi> 2.19. <hi>Eph.</hi> 4.16. were morall tyes in which Saints had communion which is common to the world? or whether God in ſetting up the goſpel government, had reſpect to the ſcituation of mens houſes, from the Scriptures named, <hi>Heb.</hi> 10.24, 25. <hi>James</hi> 21.2.</p>
+               <p>
+                  <hi>Q.</hi> What a ſtrange diſpenſation, and whence is it, that in a particular congregation ſhould be all the Goſpel church-duties done, and more alſo?</p>
+               <p n="2">2. Whether in joyning Catechiſing with the other Goſpel ordinances together, be not a making the world &amp; Church one, the Miniſtry within one, and that without alſo?</p>
+               <p n="3">3. In the ſingle congregation, that is the Presbyterial church, muſt be one at leaſt to labour in the word (ſay the Propoſitions)</p>
+               <p n="1">1. Whence came this diſpenſation? Doth the Word allow of any ſuch thing, but that all the Church-Miniſtry ſhould be in every church?</p>
+               <p n="2">2. By the ſame diſpenſation this one Miniſtry may doe all the church-Miniſters work. It is good for us Miniſters to take heed of Antichriſt and his workings.</p>
+               <p n="4">4. Whether the Church-officers that wait on their offices, are to meet at ſet times, or not rather to watch continually for the Churches well-ordering, they being to waite thereon, and to give themſelves thereunto with all diligence?</p>
+               <pb n="12" facs="tcp:104485:9"/>
+               <p>
+                  <hi>Q.</hi> If it be not a ſad thing to ſet up a government in the church by <hi>Synods</hi> &amp; <hi>Claſſes,</hi> with an—<hi>It is lawfull and agreeable;</hi> without command or inſtitution to ſhew for it from the Word.</p>
+               <p>If <hi>Mat.</hi> 18. and <hi>Acts</hi> 15. be not made a pin to hang that on which God never appointed it for, nor meant nothing leſſe then it is cited for.</p>
+               <p>
+                  <hi>Q.</hi> If the Presbytery 1 <hi>Tim.</hi> 4.14. Act. 15.2, 4, 6. be meant of any more then the Evangeliſt, Paſtor, Teacher, of a ſingle church miniſtery, and how it can be proved.</p>
+               <p n="2">2. If the particular congregations at <hi>Jeruſalem, Epheſus</hi> &amp;c. were other then the members divided in each church under this threefold Miniſtry, and the Miniſtry that prepared thereunto, and ſo had nothing to do with a National church, or church-government in Presbytery; the politique, prudential and carnal wayes thereof ſerve only to overthrow the Kingdom of Chriſt among us, and not ſet it up, it being contrary thereunto.</p>
+               <p>
+                  <hi>Q.</hi> Whether the citing the Prieſts and Levites in the <hi>Paſtors ſec.</hi> and the Elders under the Law in the <hi>ſec.</hi> for <hi>Lay-Elders,</hi> be any way authoritative to prove the goſpel-government? ſeeing Chriſt ſayes <hi>Mar.</hi> 2, 21. <hi>No man putteth an old peece to a new garment.</hi> Mark, not a peece; how then many peeces? Let us away with them: the Goſpel needs them not at all, they are beggerly rudi<g ref="char:EOLhyphen"/>ments, and not according to Jeſus Chriſt, to whoſe mind we ought to be conformed in all things, that in all things he may be to us a Saviour.</p>
+               <p>
+                  <hi>Out of love to the truth, in all humility I provoke the Presbyteries of</hi> England, Scotland, <hi>&amp;c. to anſwer the Objections made againſt their practiſe laid down in the</hi> Propoſitions, <hi>in my</hi> Queries <hi>and</hi> Letters, <hi>and to propoſe the grounds of their diſſent from the Forme of Government here ſet forth, &amp; in thoſe books of the</hi> Smoak of the Tem<g ref="char:EOLhyphen"/>ple, the Reſurrection of the fallen Churches, <hi>&amp;</hi> The going in and coming forth of the Church, <hi>Treatiſes that do appertain thereto; that the truth may be known, and the way of God ſet up in the Land amongſt us. Only</hi> I <hi>deſire it may be done Chriſtianly and in love, not carping at the imperfectneſſe of the Copies.</hi>
+               </p>
+            </div>
+            <pb facs="tcp:104485:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
